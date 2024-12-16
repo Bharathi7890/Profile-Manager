@@ -76,10 +76,10 @@ CREATE TABLE users (
 ## Screenshots  
 
 ### Home Page  
-![Home Page](https://github.com/Bharathi7890/Profile-Manager/Frontend/public/homepage.png)  
+![Home Page](./Frontend/public/homepage.png)  
 
 ### Add User  
-![Add User](https://github.com/Bharathi7890/Profile-Manager/Frontend/public/adduser.png)  
+![Add User](./Frontend/public/adduser.png)  
 
 ---
 
